@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945547025246",
+    "project_id": "aminkaya-5e91c",
+    "storage_bucket": "aminkaya-5e91c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945547025246:android:d0cf22cea8399071200dcf",
+        "android_client_info": {
+          "package_name": "com.example.mente_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBepPnSxffOoWkriC8CB2yb0vZ6pxpteo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
